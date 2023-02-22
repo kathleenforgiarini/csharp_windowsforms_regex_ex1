@@ -1,0 +1,11 @@
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Winter 2023\Object Oriented Programming concepts\Class 12 - 28022023\ExLab5\bin\Debug\ExLab5.exe.config
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Winter 2023\Object Oriented Programming concepts\Class 12 - 28022023\ExLab5\bin\Debug\ExLab5.exe
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Winter 2023\Object Oriented Programming concepts\Class 12 - 28022023\ExLab5\bin\Debug\ExLab5.pdb
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Winter 2023\Object Oriented Programming concepts\Class 12 - 28022023\ExLab5\obj\Debug\ExLab5.csproj.AssemblyReference.cache
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Winter 2023\Object Oriented Programming concepts\Class 12 - 28022023\ExLab5\obj\Debug\ExLab5.csproj.SuggestedBindingRedirects.cache
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Winter 2023\Object Oriented Programming concepts\Class 12 - 28022023\ExLab5\obj\Debug\ExLab5.Form1.resources
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Winter 2023\Object Oriented Programming concepts\Class 12 - 28022023\ExLab5\obj\Debug\ExLab5.Properties.Resources.resources
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Winter 2023\Object Oriented Programming concepts\Class 12 - 28022023\ExLab5\obj\Debug\ExLab5.csproj.GenerateResource.cache
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Winter 2023\Object Oriented Programming concepts\Class 12 - 28022023\ExLab5\obj\Debug\ExLab5.csproj.CoreCompileInputs.cache
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Winter 2023\Object Oriented Programming concepts\Class 12 - 28022023\ExLab5\obj\Debug\ExLab5.exe
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Winter 2023\Object Oriented Programming concepts\Class 12 - 28022023\ExLab5\obj\Debug\ExLab5.pdb
